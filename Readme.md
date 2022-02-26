@@ -1,4 +1,4 @@
-# order_book_exercise
+# Limit Order Book Demo
 
 ```
 - algo theory from https://github.com/Kautenja/limit-order-book/blob/master/notes/lob.md
